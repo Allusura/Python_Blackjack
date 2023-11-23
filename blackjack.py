@@ -1,4 +1,5 @@
-```python
+#Author: Allusura
+#A simple blackjack game I created in my free time after 11 days of study.
 
 import random
 import art
@@ -61,5 +62,3 @@ def blackjack():
     print("Thanks for playing!\nGoodbye!")
 
 blackjack()
-
-```
